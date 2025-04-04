@@ -22,7 +22,7 @@ import vishwanatha from "../faculty/vishwanatha.jpg";
 import santosh from "../faculty/santosh.jpg";
 import udhaya from "../faculty/udhaya.jpg";
 import meer from "../faculty/meer.jpg";
-// import latheef from "../faculty/latheef.jpg";
+import latheef from "../faculty/latheef.jpg";
 import poornima from "../faculty/poornima.jpg";
 import priya from "../faculty/priya.jpg";
 import thripthika from "../faculty/thripthika.jpg";
@@ -38,6 +38,7 @@ import saritha from "../faculty/saritha.jpg";
 import chithrakshi from "../faculty/chithrakshi.jpg";
 import nandini from "../faculty/nandini.jpg";
 import mamatha from "../faculty/mamatha.jpg";
+import sateesh from "../faculty/sateesh.jpg";
 
 const departments = [
   {
@@ -69,6 +70,7 @@ const departments = [
       { name: "Mridula V", qualification: "B.E, M.Tech", image: mridula },
       { name: "Narasimha N Prabhu", qualification: "B.E", image: narasimha },
       { name: "Niveditha", qualification: "B.E", image: niveditha},
+      { name: "Dr. Sateesh N H", qualification: "B.E, M.E, Ph.D", image: "/faculty/sateesh.jpg" },
     ],
   },
   {
@@ -94,7 +96,7 @@ const departments = [
     name: "Electronics & Communication Engineering",
     link: "https://mrhacker077.github.io/hodportfolio6/",
     faculty: [
-      // { name: "Latheef", qualification: "B.E", image: latheef },
+      { name: "Latheef", qualification: "B.E", image: latheef },
       { name: "Poornima K", qualification: "M.Tech(DECS)", image: poornima },
     ],
   },
