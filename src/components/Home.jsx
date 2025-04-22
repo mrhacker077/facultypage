@@ -39,6 +39,10 @@ import chithrakshi from "../faculty/chithrakshi.jpg";
 import nandini from "../faculty/nandini.jpg";
 import mamatha from "../faculty/mamatha.jpg";
 import sateesh from "../faculty/sateesh.jpg";
+import suma from "../faculty/suma.jpg";
+import sreeja from "../faculty/sreeja.jpg"
+import gayathri from "../faculty/Gayathri.jpg"
+import dinesh from "../faculty/dinesh.jpg"
 
 const departments = [
   {
@@ -66,11 +70,11 @@ const departments = [
     link: "https://mrhacker077.github.io/hod2portfolio/",
     faculty: [
       { name: "Harisha C P", qualification: "B.E, M.Tech", image: harisha },
+      { name: "Dr. Sateesh N H", qualification: "B.E, M.E, Ph.D", image: sateesh },
       { name: "Pavithra Kumara M", qualification: "M.Tech", image: pavithra },
       { name: "Mridula V", qualification: "B.E, M.Tech", image: mridula },
       { name: "Narasimha N Prabhu", qualification: "B.E", image: narasimha },
       { name: "Niveditha", qualification: "B.E", image: niveditha},
-      { name: "Dr. Sateesh N H", qualification: "B.E, M.E, Ph.D", image: "/faculty/sateesh.jpg" },
     ],
   },
   {
@@ -90,6 +94,7 @@ const departments = [
     faculty: [
       { name: "A.Udhaya kumar", qualification: "M.E, Ph.D", image: udhaya },
       { name: "Meer Mukarram", qualification: "B.E", image: meer },
+      { name: "Gayathri S", qualification: "B.E, M.Tech", image: gayathri },
     ],
   },
   {
@@ -98,6 +103,7 @@ const departments = [
     faculty: [
       { name: "Latheef", qualification: "B.E", image: latheef },
       { name: "Poornima K", qualification: "M.Tech(DECS)", image: poornima },
+      { name: "Suma P", qualification: "B.E, M.Tech", image: suma },
     ],
   },
   {
@@ -105,7 +111,8 @@ const departments = [
     link: "https://mrhacker077.github.io/hodportfolio7/",
     faculty: [
       { name: "Savitha Priya Pinto ", qualification: "M.Sc", image: priya },
-    
+      { name: "Sreeja M R", qualification: "B.Tech", image: sreeja },
+      { name: "P.Dinesh", qualification: "B.Tech", image: dinesh }
     ],
   },
   {
