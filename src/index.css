@@ -144,22 +144,27 @@ body {
   text-align: center;
   padding: 20px;
   color: white;
+  background-color: #aedef3;
 }
 .department-title {
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 20px;
   text-transform: uppercase;
-  color: #620606;
+  color: #080808;
 }
 
 .faculty-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  justify-content:center;
+  gap: 50px;
   margin-top: 20px;
+  max-width: 1340px; /* 4 cards * 220px + gaps */
+  margin-left: auto;
+  margin-right: auto;
 }
+
 
 .faculty-card {
   width: 220px;
