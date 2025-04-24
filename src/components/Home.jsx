@@ -43,12 +43,14 @@ import suma from "../faculty/suma.jpg";
 import sreeja from "../faculty/sreeja.jpg"
 import gayathri from "../faculty/Gayathri.jpg"
 import dinesh from "../faculty/dinesh.jpg"
+import leelavathi from "../faculty/leelavathi.jpg"
 
 const departments = [
   {
     name: "Computer Science & Engineering",
     link: "https://mrhacker077.github.io/hodportfolio/",
     faculty: [
+      { name: "Leelavathi R", qualification: "B.E, M.E", image: leelavathi },
       { name: "Pradeep Kumar H M", qualification: "B.E", image: pradeep },
       { name: "Akshitha V", qualification: "B.E, M.Tech", image: akshitha },
       { name: "Lakshmikanth", qualification: "B.E", image: lakshmikanth },
